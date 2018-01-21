@@ -1,0 +1,16 @@
+.UserForm {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100vw;
+    height: 100vh;
+	background-size: cover;
+	background-image: url("https://static.pexels.com/photos/34435/pexels-photo.jpg");
+}
+
+.UserInput {
+    padding: 20px;
+    font-size: 2em;
+    border: 1px dashed #ccc;
+    width: 520px;
+}
